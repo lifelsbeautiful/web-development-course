@@ -102,6 +102,7 @@ img.g-img+div {
 
 .bg_white {
     background: #ffffff;
+    padding: 1em 2.5em 0 2.5em;
  
 }
 
@@ -183,7 +184,7 @@ a {
     margin: 0;
 }
 
-.logo h1, a {
+.logo h1 a {
     color: #17bebb;
     font-size: 24px;
     font-weight: 700;
@@ -195,6 +196,7 @@ a {
     position: relative;
     z-index: 2;
     background: #ffffff;
+    padding: 2em 0 2em 0;
 }
 
 .hero .text {
@@ -285,5 +287,5 @@ ul.social li {
 
 
 @media screen and (max-width: 500px) {
-    
+
 }
