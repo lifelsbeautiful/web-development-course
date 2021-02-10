@@ -159,12 +159,7 @@ img.g-img+div {
     text-decoration: underline;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Work Sans', sans-serif;
     color: #000000;
     margin-top: 0;
@@ -182,16 +177,13 @@ body {
 a {
     color: #17bebb;
 }
-
-table {}
-
 /*LOGO*/
 
 .logo h1 {
     margin: 0;
 }
 
-.logo h1 a {
+.logo h1, a {
     color: #17bebb;
     font-size: 24px;
     font-weight: 700;
@@ -272,7 +264,7 @@ ul.social li {
     color: rgba(0, 0, 0, .5);
 }
 
-.footer .heading {
+.footer, .heading {
     color: #000;
     font-size: 20px;
 }
@@ -292,4 +284,6 @@ ul.social li {
 }
 
 
-@media screen and (max-width: 500px) {}
+@media screen and (max-width: 500px) {
+    
+}
