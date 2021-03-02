@@ -1,0 +1,99 @@
+@font-face {
+  font-family: JosefinSans-Regular;
+  src: url(fonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: JosefinSans-Bold;
+  src: url(fonts/JosefinSans-Bold.ttf);
+}
+.dark-theme{
+  background-color: black;
+}
+.dark-text{
+  color: white;
+}
+.backfon{
+  width: 1440px;
+  height: 880px;
+  margin: 0 auto;
+}
+.header{
+ text-align: center;
+ margin: 80px 0;
+}
+.header-name{
+  margin: 12px 0px 12px 15px;
+  font-family: JosefinSans-Bold;
+  font-size: 86px;
+  line-height: 88px;
+  letter-spacing: 0.01em;
+}
+.header-underline{
+  padding: 0px 16px;
+  margin: 0px 16px;
+  background: linear-gradient(180deg, rgba(237, 96, 65, 0) 85.76%, #ED6041 85.82%);
+}
+.header-text{
+  font-family: JosefinSans-Regular;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+}
+.team-members{
+ padding: 0px 70px;
+}
+.row{
+  display: flex;
+  margin-bottom: 40px;
+}
+.block{
+  display: flex;
+  margin-right:25px;
+}
+.img{
+  margin-right:20px;
+}
+.row-name{
+  font-family: JosefinSans-Bold;
+  font-size: 35px;
+  line-height: 40px;
+  position: relative;
+  bottom: 25px;
+}
+.row-text{
+font-family: JosefinSans-Regular;
+font-size: 16px;
+line-height: 24px;
+margin: 12px 0px 16px 0px;
+width: 388px;
+position: relative;
+bottom: 60px;
+}
+.button-red{
+  background: #EC6041;
+  box-shadow: 4px 4px 0px 0px #F1876F, 8px 8px 0px 0px #F5AE9E;
+  text-decoration: none;
+  width: 144px;
+  height: 36px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-family: JosefinSans-Regular;
+  font-weight: bold;
+  color: #FFFFFF;
+  position: relative;
+  bottom: 68px;
+}
+.button-text{
+  position: relative;
+  left: 13px;
+  top:-3px;
+  font-family: JosefinSans-Bold;
+}
+.name-text-button{
+  display: flex;
+  flex-direction: column;
+  padding-left: 4px;
+}
