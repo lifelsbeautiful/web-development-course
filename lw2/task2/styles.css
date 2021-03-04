@@ -1,84 +1,84 @@
-.button{
+.button {
   padding: 5px;
   margin: 0 15px 15px 0;
 }
-.button.button-large{
+.button.button-large {
   font-size:24px;
   color: grey;
   background: white;
   border: solid 2px gray;
 }
-.button.button-large-filled{
+.button.button-large-filled {
   background:gray;
   border: solid 2px gray;
   color: white;
   font-size:24px;
 }
-.button.button-primary{
+.button.button-primary {
   font-size:21px;
   color: #846D9C;
   background: white;
   border: solid 2px #846D9C;
 }
-.button.button-primary-filled{
+.button.button-primary-filled {
   background:#846D9C;
   border: solid 2px #846D9C;
   color: white;
   font-size:21px;
 }
-.button.button-success{
+.button.button-success {
   font-size:18px;
   color: #90B35C;
   background: white;
   border: solid 2px #90B35C;
 }
-.button.button-success-filled{
+.button.button-success-filled {
   background:#90B35C;
   border: solid 2px #90B35C;
   color: white;
   font-size:18px;
 }
-.button.button-medium{
+.button.button-medium {
   font-size:15px;
   color:#7197D7;
   background: white;
   border: solid 2px #7197D7;
 }
-.button.button-medium-filled{
+.button.button-medium-filled {
   background:#7197D7;
   border: solid 2px #7197D7;
   color: white;
   font-size:15px;
 }
-.button.button-warning{
+.button.button-warning {
   font-size:12px;
   color:#E8C96D;
   background: white; 
   border: solid 2px #E8C96D;
 }
-.button.button-warning-filled{
+.button.button-warning-filled {
   background:#E8C96D;
   border: solid 2px #E8C96D;
   color: white;
   font-size:12px;
 }
-.button.button-red{
+.button.button-red {
   font-size:9px;
   color:#C3735B;
   background: white;
   border: solid 2px #C3735B;
 }
-.button.button-red-filled{
+.button.button-red-filled {
   background:#C3735B;
   border: solid 2px #C3735B;
   color: white;
   font-size:9px;
 }
-.button-rounded{
+.button-rounded {
   border-radius:5px;
   border:solid 2px;
 }
-.button-o-rounded{
+.button-o-rounded {
   border-radius:13px;
 }
 
